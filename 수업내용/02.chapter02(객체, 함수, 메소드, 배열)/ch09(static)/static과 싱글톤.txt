@@ -1,0 +1,9 @@
+static
+
+
+-----------------
+싱글톤
+company
+MainTest3
+
+Barlon

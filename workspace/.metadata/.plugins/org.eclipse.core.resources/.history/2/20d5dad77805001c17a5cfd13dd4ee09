@@ -1,0 +1,33 @@
+package ch09;
+
+public class Employee {
+
+	public static int serialNum = 1000;
+	
+	private int employeeId;
+	private String employeeName;
+	private String department;
+	
+	
+	// constructor
+	public Employee() {
+		serialNum++;
+		employeeId = serialNum; 
+	}
+
+
+	// getter
+	public int getEmployeeId() {
+		return employeeId;
+	}
+	public String getEmployeeName() {
+		return employeeName;
+	}
+	public String getDepartment() {
+		return department;
+	}
+	
+	
+	
+
+}

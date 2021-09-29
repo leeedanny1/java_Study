@@ -1,0 +1,21 @@
+package ch04;
+
+public class FruitMainTest {
+
+	public static void main(String[] args) {
+
+		Peach peach = new Peach();
+		Banana banana = new Banana();
+		
+		peach.showInfo();
+		banana.showInfo();
+		
+		
+		// ´ÙÇü¼º
+		
+		
+		
+
+	}
+
+}

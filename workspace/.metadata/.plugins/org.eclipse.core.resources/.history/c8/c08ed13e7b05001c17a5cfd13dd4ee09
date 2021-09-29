@@ -1,0 +1,15 @@
+package ch09;
+
+public class MainTest2 {
+
+	public static void main(String[] args) {
+
+		Employee employee1 = new Employee("ÀÌ¼ø½Å");
+		
+		
+		
+		
+		
+	}
+
+}

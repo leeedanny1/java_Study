@@ -1,0 +1,24 @@
+package ch01;
+
+public class FunctionTest3 {
+
+	public static void main(String[] args) {
+
+		int unm1;
+		int num2;
+		int sum;
+
+	}
+	
+	
+	public static int add(int n1, int n2) {
+		int result;
+		result = n1 + n2;
+		return result;
+		
+	}
+	
+	
+	
+
+}

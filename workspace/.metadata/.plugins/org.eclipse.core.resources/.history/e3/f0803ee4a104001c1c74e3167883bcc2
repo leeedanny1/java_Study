@@ -1,0 +1,22 @@
+package ch03;
+
+public class Bus {
+
+	// 버스 번호, 수익금
+	// 변수선언
+	int busNumber;
+	int money;
+	
+	
+	//생성자
+	public Bus(int number) {
+		busNumber = number;
+	}
+	
+	
+	// 메소드
+	public void showInfo() {
+		System.out.println("버스의 번호는 " + busNumber);
+	}
+	
+}

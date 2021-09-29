@@ -1,0 +1,23 @@
+package ch03;
+
+public class Bill {
+	
+	// 변수 생성
+	long number, phone;
+	String address;
+	int date, time, price, menuNo;
+	
+	
+	public Bill(long number, long phone, String address, int date, int time, int price, int menuNo) {
+		this.number = number;
+		this.phone = phone;
+		this.address = address;
+		this.date = date;
+		this.time = time;
+		this.price = price;
+		this.menuNo = menuNo;
+	}
+	
+	
+
+}

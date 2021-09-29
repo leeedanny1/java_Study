@@ -1,0 +1,11 @@
+package ch02;
+
+public class Archer {
+	
+	public void fireArrow() {
+		System.out.println("불화살공격");
+	}
+	
+	
+
+}

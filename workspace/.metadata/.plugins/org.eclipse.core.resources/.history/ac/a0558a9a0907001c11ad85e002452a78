@@ -1,0 +1,9 @@
+package ch02;
+
+public class Wizard {
+
+	public void freezing() {
+		System.out.println("얼음공격");
+	}
+
+}

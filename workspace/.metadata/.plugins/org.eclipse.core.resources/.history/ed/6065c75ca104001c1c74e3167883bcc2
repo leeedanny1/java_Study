@@ -1,0 +1,9 @@
+package ch03;
+
+public class Bus {
+
+	// 버스 번호, 수익금
+	int busNumber;
+	int money;
+	
+}

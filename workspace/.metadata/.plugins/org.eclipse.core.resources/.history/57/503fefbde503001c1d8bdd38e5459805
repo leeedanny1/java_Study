@@ -1,0 +1,23 @@
+package ch01;
+
+public class FunctionTest2 {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+	
+	
+	public static double addNum(double n1, double n2) {
+		double result;
+		result = n1 + n2;
+		return result;		
+	}
+	
+	public static void sayHello(String greeting) {
+		System.out.println("[" + greeting + "]");
+	}
+	
+
+}

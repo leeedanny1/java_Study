@@ -1,0 +1,17 @@
+package ch04;
+
+import java.util.Scanner;
+
+//04-01. 조건문
+public class IfMainTest2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		System.out.println("성적을 입력하세요: ");
+		Scanner sc = new Scanner(System.in);
+
+	}
+
+}

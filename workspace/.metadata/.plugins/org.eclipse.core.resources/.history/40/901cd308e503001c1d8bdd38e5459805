@@ -1,0 +1,18 @@
+package ch01;
+
+public class FunctionTest2 {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+	
+	
+	public static int addNum(double n1, double n2) {
+		
+		
+	}
+	
+
+}

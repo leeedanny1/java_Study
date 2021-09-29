@@ -1,0 +1,17 @@
+package ch02;
+
+public class HeroMainTest {
+
+	public static void main(String[] args) {
+
+		Hero warrior = new Hero("ภüป็1", 100);
+		
+		warrior.attack();
+		
+		
+		
+		
+
+	}
+
+}

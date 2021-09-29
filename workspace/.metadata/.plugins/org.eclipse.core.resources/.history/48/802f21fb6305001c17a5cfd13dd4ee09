@@ -1,0 +1,11 @@
+package ch06;
+
+public class Car {
+	
+	String name;
+	int price;
+	// 참조 타입(포함관계)
+	Engine engine;
+	Engine eprice;
+
+}

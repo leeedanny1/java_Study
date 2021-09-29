@@ -1,0 +1,3 @@
+https://www.jsonschema2pojo.org/
+
+Gson 의 DAO를 편하게 만드는 site

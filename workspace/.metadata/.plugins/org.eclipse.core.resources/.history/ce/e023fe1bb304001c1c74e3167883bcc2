@@ -1,0 +1,21 @@
+package ch05;
+
+public class Student {
+
+	// 학번, 이름, 국어성적, 수학성적, 수강과목이름1, 수강과목이름2
+	int studentId;
+	String name;
+	int koreanScore;
+	int mathScore;
+	String korean;
+	String math;
+	
+	
+	//메소드
+	public void showStudentScore() {
+		int total = koreanScore + mathScore;
+		System.out.println("학생의 이름은: " + name + "학생의 총점은: " + total);
+	}
+	
+	
+}

@@ -1,0 +1,11 @@
+package ch03;
+
+public class Bill {
+	
+	long number, phone;
+	String address;
+	int date, time, price, menuNo;
+	
+	
+
+}

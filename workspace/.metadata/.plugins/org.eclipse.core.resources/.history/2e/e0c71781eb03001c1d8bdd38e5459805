@@ -1,0 +1,7 @@
+package ch02;
+
+public class Student {
+
+	// 객체의 속성은 멤버변수로, 객체의 기능은 메소드로 구현한다.
+	
+}

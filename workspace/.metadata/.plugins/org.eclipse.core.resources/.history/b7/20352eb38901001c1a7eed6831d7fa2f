@@ -1,0 +1,21 @@
+package ch05;
+
+//05-02. while반복문
+public class WhileTest1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//while 반복문
+		
+		int num = 1;
+		
+		while(num < 10) {
+			System.out.println("현재값: " + num);
+			num++
+		}
+		
+		
+	}
+
+}

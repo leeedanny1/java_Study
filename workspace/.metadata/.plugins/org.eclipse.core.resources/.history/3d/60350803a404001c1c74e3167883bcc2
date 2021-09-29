@@ -1,0 +1,28 @@
+package ch03;
+
+public class UserInfo {
+	
+	String userId;
+	String userPassWord;
+	String userName;
+	String userAddress;
+	String phoneNumber;
+	
+	
+	// 巩力1. 扁夯积己磊 积己
+	public UserInfo() {}
+	
+	// 巩力2. userId蔼阑 罐绰 积己磊 积己
+	public UserInfo(String userId) {
+		this.userId = userId;
+	}
+	
+	// 巩力3. userId, userPassWord 积己磊 积己
+	
+	// 巩力4. userId, userPassWord, userName
+	
+	// 巩力4. userId, userPassWord, userName, userAddress
+	
+	// 巩力4. userId, userPassWord, userName, userAddress, phoneNumber
+
+}

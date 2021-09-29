@@ -1,0 +1,7 @@
+package ch05;
+
+public class Student {
+
+	// 학번, 이름, 국어성적, 수학성적, 수강과목이름1, 수강과목이름2
+	
+}

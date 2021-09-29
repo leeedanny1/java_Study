@@ -1,0 +1,12 @@
+package ch09;
+
+public class Barlon {
+
+	//1. 생성자를 private으로 만든다.
+	private Barlon() {}
+	
+	//2. static 변수를 활용해서 내부에서 객체를 생성한다.
+	private static Barlon instance = new Barlon();
+	
+	
+}

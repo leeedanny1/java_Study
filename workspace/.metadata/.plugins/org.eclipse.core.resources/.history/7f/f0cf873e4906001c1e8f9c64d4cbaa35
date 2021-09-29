@@ -1,0 +1,14 @@
+package ch10;
+
+public class MainTest2 {
+
+	public static void main(String[] args) {
+
+		int[] num = new int[12];
+		
+		Zealot[] zealots = new Zealot[12];
+		
+
+	}
+
+}

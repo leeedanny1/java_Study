@@ -1,0 +1,17 @@
+package ch02;
+
+public class ForMainTest1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		// 순차 증가하는 별(*)모양 만들기
+		
+		
+		for(int i = 0; i<5; i++) {
+			
+		}
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package ch03;
+
+public class Person {
+	
+	String name;
+	int age;
+	int height;
+	int weight;
+	
+	//¸Þ¼Òµå
+		public void showInfo() {
+			System.out.println("name: " + name);
+			System.out.println("age: " + age);
+			System.out.println("height: " + height);
+			System.out.println("weight: " + weight);	
+		}
+
+}

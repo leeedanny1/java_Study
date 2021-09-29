@@ -1,0 +1,5 @@
+Student -> 함수랑 메소드
+
+그리고 이중for문 연습
+
+formaintest -> 별모양 찍기

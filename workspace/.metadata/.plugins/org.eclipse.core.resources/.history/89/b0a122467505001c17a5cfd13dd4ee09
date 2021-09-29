@@ -1,0 +1,19 @@
+package ch09;
+
+public class MainTest1 {
+
+	public static void main(String[] args) {
+
+		NumberPrinter numberPrinter1 = new NumberPrinter(1);
+		
+		//1. 번호표를 뽑음
+		numberPrinter1.printWaitNumber();
+		//2. ...
+		numberPrinter1.printWaitNumber();
+		
+		
+		
+
+	}
+
+}

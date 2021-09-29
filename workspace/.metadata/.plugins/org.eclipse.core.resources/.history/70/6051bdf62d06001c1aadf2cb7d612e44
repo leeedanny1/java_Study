@@ -1,0 +1,17 @@
+package ch10;
+
+public class Zealot {
+
+	// 캐릭터 이름, 공격력, 체력
+	private String name;
+	private int power;
+	private int hp;
+	
+	
+	// 생성자
+	public Zealot(String name) {
+		this.name = name;
+	}
+	
+	
+}

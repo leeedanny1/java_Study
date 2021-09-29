@@ -1,0 +1,12 @@
+package ch01;
+
+public class StudentMainTest1 {
+
+//	main함수(코드의 시작점)
+	public static void main(String[] args) {
+		
+		Student s1;
+
+	} // end of main
+
+} //end of class

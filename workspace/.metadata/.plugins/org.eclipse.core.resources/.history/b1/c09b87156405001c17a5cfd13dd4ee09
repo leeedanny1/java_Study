@@ -1,0 +1,20 @@
+package ch06;
+
+public class Car {
+	
+	String name;
+	int price;
+	// 참조 타입(포함관계)
+	Engine engine;
+	Engine eprice;
+	
+	public Car(String name, int price, Engine engine, Engine eprice) {
+		this.name = name;
+		this.price = price;
+		this.engine = engine;
+		this.eprice = eprice;
+	}
+	
+	
+
+}

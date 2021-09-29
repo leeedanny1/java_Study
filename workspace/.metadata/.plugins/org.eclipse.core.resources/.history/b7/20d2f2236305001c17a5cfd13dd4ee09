@@ -1,0 +1,11 @@
+package ch06;
+
+public class Engine {
+	
+	// 엔진의 이름, 엔진의 가격
+	String name;
+	int price;
+	
+	
+
+}

@@ -1,0 +1,14 @@
+package ch03;
+
+public class Person {
+	
+	int height, weight, age;
+	String gender, name;
+	
+	
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package ch07;
+
+public class HeroMainTest {
+
+	public static void main(String[] args) {
+
+		Hero hero = new Hero("Áú·µ", 100, 10);
+		
+		String name = hero.getName();
+		System.out.println(name);
+		
+		int hp = hero.getHp();
+		System.out.println(hp);
+
+	}
+
+}

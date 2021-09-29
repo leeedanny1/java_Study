@@ -1,0 +1,15 @@
+package ch10;
+
+public class MainTest1 {
+
+	public static void main(String[] args) {
+
+		Zealot z1 = new Zealot("z1");
+		Marine m1 = new Marine("m1");
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package ch01;
+
+public class FunctionTest {
+
+	//메인함수
+	public static void main(String[] args) {
+		
+		
+
+	} //end of main
+
+	// add 함수 생성
+	
+}

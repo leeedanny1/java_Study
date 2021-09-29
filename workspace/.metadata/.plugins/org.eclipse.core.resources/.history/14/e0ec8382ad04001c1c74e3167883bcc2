@@ -1,0 +1,17 @@
+package ch04;
+
+public class MainTest1 {
+
+	public static void main(String[] args) {
+		
+		Bus bus1 = new Bus(1);
+		Bus bus2 = new Bus(2);
+		Subway subway1 = new Subway(2);
+		Student student1 = new Student("Æ¼¸ð", 10000);
+		
+		student1.takeBus(bus1);
+		
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package ch11;
+
+public class ArrayMainTest {
+
+	public static void main(String[] args) {
+
+		/*
+		배열
+		: 연관된 데이터를 모아서 통으로 관리하기 위해 사용하는 데이터 타입이다.
+		변수가 하나의 데이터를 저장하기 위한 것이라면 배열은 여러개의 데이터를 하나의 변수에 저장하기 위한 것이라고 할 수 있다.
+		*/
+		
+		// 일반 변수
+		int number = 10;
+		
+		// 배열 선언 방법
+		// 첫 번째 방법 많이 사용함
+		int[] arr1 = new int[3];
+		int arr2[] = new int[10];
+		
+
+	}
+
+}

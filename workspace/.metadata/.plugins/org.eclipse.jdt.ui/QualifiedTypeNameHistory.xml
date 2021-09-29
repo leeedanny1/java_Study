@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="ch01.Warrior"/>
+    <fullyQualifiedTypeName name="ch03.Bus"/>
+    <fullyQualifiedTypeName name="ch03.Person"/>
+    <fullyQualifiedTypeName name="ch03.Order"/>
+    <fullyQualifiedTypeName name="ch04.Bus"/>
+    <fullyQualifiedTypeName name="ch04.Subway"/>
+    <fullyQualifiedTypeName name="ch04.Student"/>
+    <fullyQualifiedTypeName name="ch05.Subject"/>
+    <fullyQualifiedTypeName name="ch05.Student"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.Method"/>
+    <fullyQualifiedTypeName name="ch06.Car"/>
+    <fullyQualifiedTypeName name="ch06.Engine"/>
+    <fullyQualifiedTypeName name="ch07.Hero"/>
+    <fullyQualifiedTypeName name="java.lang.NegativeArraySizeException"/>
+    <fullyQualifiedTypeName name="ch09.NumberPrinter"/>
+    <fullyQualifiedTypeName name="ch09.Employee"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystemLoopException"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="ch10.Zergling"/>
+    <fullyQualifiedTypeName name="ch10.Marine"/>
+    <fullyQualifiedTypeName name="java.sql.Array"/>
+    <fullyQualifiedTypeName name="ch10.Zealot"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.ui.action.ShowAction"/>
+    <fullyQualifiedTypeName name="ch12.Book"/>
+</qualifiedTypeNameHistroy>

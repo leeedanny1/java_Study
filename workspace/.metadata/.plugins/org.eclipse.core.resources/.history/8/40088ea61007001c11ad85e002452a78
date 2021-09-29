@@ -1,0 +1,10 @@
+package ch04;
+
+public class Banana extends Fruit {
+	
+	public Banana() {
+		name = "¹Ù³ª³ª";
+		price = 2000;
+	}
+
+}

@@ -1,0 +1,8 @@
+package ch04;
+
+public class Banana {
+	
+	String name;
+	int price;
+
+}

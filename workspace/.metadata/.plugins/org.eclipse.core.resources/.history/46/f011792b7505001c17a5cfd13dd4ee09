@@ -1,0 +1,15 @@
+package ch09;
+
+public class MainTest1 {
+
+	public static void main(String[] args) {
+
+		NumberPrinter numberPrinter1 = new NumberPrinter(1) {
+			
+		}
+		
+		
+
+	}
+
+}

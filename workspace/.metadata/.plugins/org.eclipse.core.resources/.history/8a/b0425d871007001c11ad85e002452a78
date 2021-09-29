@@ -1,0 +1,13 @@
+package ch04;
+
+public class Peach {
+	
+	String name;
+	int price;
+	
+	public Peach() {
+		name = "º¹¼þ¾Æ";
+		price = 3900;
+	}
+
+}

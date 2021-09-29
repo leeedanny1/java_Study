@@ -1,0 +1,23 @@
+package ch07;
+
+public class BankMainTest {
+
+	public static void main(String[] args) {
+
+		Bank bank = new Bank();
+		
+		bank.deposit(10000);
+		bank.showInfo();
+		bank.withdraw(5000);
+		bank.showInfo();
+		
+		// 신입 개발자가 실수로 멤버 변수에 바로 접근해서 잔액을 수정
+//		bank.balance = 1000000;
+//		bank.showInfo();
+		// 접근 지정자를 이용하면 바로 접근하지 못하게 설정 할 수 있음
+		
+		
+		
+	}
+
+}

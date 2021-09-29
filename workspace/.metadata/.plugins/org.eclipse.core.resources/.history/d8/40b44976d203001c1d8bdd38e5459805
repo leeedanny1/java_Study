@@ -1,0 +1,8 @@
+package ch01;
+
+public class Student {
+
+	int height, weight;
+	String name;
+	
+} //end of class

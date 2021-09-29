@@ -1,0 +1,12 @@
+package ch07;
+
+public class BankMainTest {
+
+	public static void main(String[] args) {
+
+		Bank bank = new Bank();
+		
+
+	}
+
+}

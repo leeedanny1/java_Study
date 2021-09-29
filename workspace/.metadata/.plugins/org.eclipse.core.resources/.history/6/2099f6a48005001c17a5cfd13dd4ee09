@@ -1,0 +1,9 @@
+package ch09;
+
+public class Barlon {
+
+	//1.
+	private Barlon() {}
+	
+	
+}

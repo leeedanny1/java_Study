@@ -1,0 +1,34 @@
+Q1.
+논리형
+1: boolean
+문자형
+1: char
+정수형
+1: byte
+2: short
+4: int
+8: long
+실수형
+4: float
+8: double
+
+Q2.
+long
+long regNo = 1111111111111;
+
+Q3.
+리터럴: 100, 400L, 3.14F
+변수: i, iNum
+키워드: int, long, final, float
+상수: PI
+
+Q4.
+12
+true
+AB
+12
+12
+Java
+
+Q5.
+g. $MAX_NUM

@@ -1,0 +1,15 @@
+package ch09;
+
+public class MainTest3 {
+
+	public static void main(String[] args) {
+
+		Company company1 = Company.getInstance();
+		Company company2 = Company.getInstance();
+		
+		
+		
+
+	}
+
+}

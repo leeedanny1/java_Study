@@ -1,0 +1,27 @@
+package ch09;
+
+public class MainTest3 {
+
+	public static void main(String[] args) {
+
+		
+		// 몇개를 만들어도 주소값은 같다
+		
+		Company company1 = Company.getInstance();
+		Company company2 = Company.getInstance();
+		Company company3 = Company.getInstance();
+		Company company4 = Company.getInstance();
+		Company company5 = Company.getInstance();
+		
+		System.out.println(company1);
+		System.out.println(company2);
+		System.out.println(company3);
+		System.out.println(company4);
+		System.out.println(company5);
+		
+		
+		
+
+	}
+
+}

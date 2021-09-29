@@ -1,0 +1,16 @@
+package ch01;
+
+public class StudentMainTest2 {
+
+	public static void main(String[] args) {
+
+		//선언과 동시에 초기화
+		Student student1 = new Student();
+		student1.name = "이대희";
+		
+		
+		
+		
+	} //end of main
+
+} //end of class

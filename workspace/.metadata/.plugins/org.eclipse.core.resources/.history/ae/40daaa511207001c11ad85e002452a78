@@ -1,0 +1,12 @@
+package ch04;
+
+public class Banana extends Fruit {
+	
+	String origin;
+	
+	public Banana() {
+		super.name = "¹Ù³ª³ª";
+		super.price = 2000;
+	}
+
+}

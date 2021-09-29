@@ -1,0 +1,11 @@
+package ch04;
+
+//04-01. Á¶°Ç¹®
+public class IfMainTest2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

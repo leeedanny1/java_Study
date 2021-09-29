@@ -1,0 +1,14 @@
+package ch04;
+
+public class Fruit {
+	
+	String name;
+	int price;
+	
+	public void showInfo() {
+		System.out.println("==========");
+		System.out.println("ªÛ«∞∏Ì: " + name);
+		
+	}
+
+}

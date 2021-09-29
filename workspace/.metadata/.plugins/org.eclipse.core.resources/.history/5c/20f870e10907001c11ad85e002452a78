@@ -1,0 +1,9 @@
+package ch02;
+
+public class Warrior extends Hero{
+
+	public void comboAttack() {
+		System.out.println("2´Ü°ø°Ý");
+	}
+
+}

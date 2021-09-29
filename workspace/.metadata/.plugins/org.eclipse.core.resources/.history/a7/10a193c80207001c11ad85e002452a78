@@ -1,0 +1,34 @@
+package ch01;
+
+// 하나의 .JAVA파일 안에 여러개의 클래스 생성 가능.
+
+// public클래스가 될 수 없다.
+class A {
+	int number1;
+	int number2;
+	int number3;
+}
+
+
+class B{
+	int number1;
+	int number2;
+	int number3;
+	int number4;
+	int number5;
+}
+
+
+
+
+
+
+public class MainTest1 {
+
+	public static void main(String[] args) {
+
+		
+
+	}
+
+}

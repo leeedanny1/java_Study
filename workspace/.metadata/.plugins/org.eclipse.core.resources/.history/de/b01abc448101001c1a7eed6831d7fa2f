@@ -1,0 +1,11 @@
+package ch05;
+
+//05-01. ¹Ýº¹¹®
+public class ForMainTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

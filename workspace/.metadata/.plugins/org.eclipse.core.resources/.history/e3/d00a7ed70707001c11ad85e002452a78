@@ -1,0 +1,17 @@
+package ch02;
+
+public class Engine {
+
+	String name;
+	int price;
+	
+	// »ý¼ºÀÚ
+	public Engine(String name, int price) {
+		this.name = name;
+		this.price = price;
+	}
+	
+	
+	
+	
+}

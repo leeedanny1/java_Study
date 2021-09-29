@@ -1,0 +1,16 @@
+package ch08;
+
+public class PersonMainTest {
+
+	public static void main(String[] args) {
+
+		Person person1 = new Person();
+		System.out.println(person1);
+		
+		
+		
+		
+
+	}
+
+}
